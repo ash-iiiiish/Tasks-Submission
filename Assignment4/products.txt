@@ -1,0 +1,3 @@
+Table | 250
+Chair | 100
+Book | 400
